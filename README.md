@@ -13,7 +13,6 @@ on branch Angular as a front-end layer.
 
 
 ## Features
-List the ready features here:
 - List of Cars by ID
 - Adding new Car
 - Editing Car
