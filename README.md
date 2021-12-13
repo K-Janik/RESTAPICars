@@ -3,7 +3,7 @@
 > This is simple Car List application written in Spring Boot 2 including REST API as a back-end layer on branch main and Angular CLI
 on branch Angular as a front-end layer.
 
-<a href="https://ibb.co/HH5VbdQ"><img src="https://i.ibb.co/qrTdc5w/Car-Manager.png" alt="Car-Manager" border="0"></a>
+<a href="https://imgupload.pl/zdjecie/PEAxR"><img src="https://imgupload.pl/images/2021/12/13/Car-Manager.png" alt="Car-Manager.png" border="0" /></a>
 
 
 ## Technologies Used
